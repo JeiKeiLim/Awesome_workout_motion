@@ -3,6 +3,8 @@ A list of workout/motion recognition related papers<br />
 If you find any kind of suggestions please do not hesitate to e-mail me :D<br />
 Lim.JeiKei@gmail.com<br />
 <br />
+Lasted updated : 2017.03. 22
+<br />
 <br />
 
 
